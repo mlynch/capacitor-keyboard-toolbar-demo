@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-keyboard-toolbar-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
