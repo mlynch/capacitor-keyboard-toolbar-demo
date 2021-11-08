@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "capacitor-keyboard-toolbar-demo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
