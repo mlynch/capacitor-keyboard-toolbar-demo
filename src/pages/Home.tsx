@@ -75,10 +75,10 @@ const Home: React.FC = () => {
           onBlur={editableBlur}
           ref={editableRef}
           style={{
-            color: "#000",
+            color: "#fff",
             width: "100%",
             height: "300px",
-            backgroundColor: "#eee",
+            backgroundColor: "",
           }}
         />
       </IonContent>
